@@ -1,0 +1,3 @@
+# Dicee
+
+![Screenshot](screenshot.gif)
