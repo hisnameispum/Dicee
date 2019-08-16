@@ -1,3 +1,3 @@
 # Dicee
 
-![Screenshot](Dicee/screenshot.gif)
+![Screenshot](https://ibb.co/LzCzZsr)
