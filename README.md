@@ -1,3 +1,3 @@
 # Dicee
 
-![Screenshot](screenshot.gif)
+![Screenshot](Dicee/screenshot.gif)
