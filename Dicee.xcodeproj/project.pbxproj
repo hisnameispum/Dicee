@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2282C238230748B000C58A16 /* screenshot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2282C237230748B000C58A16 /* screenshot.gif */; };
 		22F34E1521D6C04400A76E8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F34E1421D6C04400A76E8E /* AppDelegate.swift */; };
 		22F34E1721D6C04400A76E8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F34E1621D6C04400A76E8E /* ViewController.swift */; };
 		22F34E1A21D6C04400A76E8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22F34E1821D6C04400A76E8E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2282C237230748B000C58A16 /* screenshot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = screenshot.gif; path = ../../../Documents/screenshot.gif; sourceTree = "<group>"; };
 		22F34E1121D6C04400A76E8E /* Dicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dicee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22F34E1421D6C04400A76E8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22F34E1621D6C04400A76E8E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		22F34E1321D6C04400A76E8E /* Dicee */ = {
 			isa = PBXGroup;
 			children = (
+				2282C237230748B000C58A16 /* screenshot.gif */,
 				22F34E1421D6C04400A76E8E /* AppDelegate.swift */,
 				22F34E1621D6C04400A76E8E /* ViewController.swift */,
 				22F34E1821D6C04400A76E8E /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2282C238230748B000C58A16 /* screenshot.gif in Resources */,
 				22F34E1F21D6C04700A76E8E /* LaunchScreen.storyboard in Resources */,
 				22F34E1C21D6C04700A76E8E /* Assets.xcassets in Resources */,
 				22F34E1A21D6C04400A76E8E /* Main.storyboard in Resources */,
